@@ -6,7 +6,7 @@ I’m a full-stack developer and competitive programmer passionate about distrib
 - **Currently:** Building distributed backend infrastructure at Finbud AI.
 - **Learning:** Advanced System Design, Kubernetes orchestration, and RLHF pipelines.
 - **Competitive Programming:** ICPC Vietnam National Top 30 & Mid-Central USA Top 35.
-- **Fun Fact:** I believe every bug is just an undocumented feature waiting to be discovered!
+- **Fun Fact:** I'm in love with the McLaren Formula One team. GO OSCAR PIASTRI!!!
 
 ---
 

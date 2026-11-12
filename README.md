@@ -1,8 +1,8 @@
-# Hi, I'm Khoa! 👋
+# Hi, I'm Michael Cao! 👋
 
 ### Computer Science at UIC · Backend systems & AI infrastructure
 
-I'm Minh Khoa Cao. I build the systems around AI: concurrent storage, local model orchestration, tools that connect models to useful data, and reproducible evaluation pipelines.
+I'm Michael Cao. I build the systems around AI: concurrent storage, local model orchestration, tools that connect models to useful data, and reproducible evaluation pipelines.
 
 My work spans Go, Rust, and Python, alongside software engineering internships and undergraduate research at the University of Illinois Chicago.
 

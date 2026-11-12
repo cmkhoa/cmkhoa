@@ -1,46 +1,36 @@
 # Hi, I'm Khoa! 👋
 
-### Software engineering student at UIC building reliable systems for LLM workloads
+### Computer Science at UIC · Backend systems & AI infrastructure
 
-I build software at the intersection of backend systems, AI infrastructure, and applied ML—from Redis-compatible storage and local model orchestration to reproducible LLM evaluation.
+I'm Minh Khoa Cao. I build the systems around AI: concurrent storage, local model orchestration, tools that connect models to useful data, and reproducible evaluation pipelines.
 
-- **Focus:** Distributed systems, backend reliability, and LLM infrastructure
-- **Background:** Software engineering internships and undergraduate research at UIC
-- **Competitive programming:** Actively competing in ICPC; preparing for the Mid-Central USA regional
-- **Outside of code:** Photography and Formula 1—McLaren fan, go Oscar Piastri! 🏁
-
----
+My work spans Go, Rust, and Python, alongside software engineering internships and undergraduate research at the University of Illinois Chicago.
 
 ### Featured work
 
-| Project | What I built |
+| Project | What it does |
 | :--- | :--- |
-| [**RedisClone**](https://github.com/cmkhoa/redisclone) | A Redis-compatible server in Go with RESP2/TCP, a 32-shard concurrent keyspace, expiration and eviction policies, AOF persistence, and race-tested multi-key operations. |
-| [**LocalRunner**](https://github.com/cmkhoa/LocalRunner) | A localhost Go service that supervises `llama.cpp` inference: model registration, lifecycle management, queued and streamed chat requests, health checks, restart recovery, and request metrics. |
-| [**MURL**](https://github.com/cmkhoa/UIC-MURL-LLM) | A reproducible research pipeline for evaluating LLM-assisted grading of worked calculus solutions, with versioned prompts, family-disjoint splits, schema validation, and structured metrics. |
+| [**RedisClone**](https://github.com/cmkhoa/redisclone) | Redis-compatible server in Go with RESP2/TCP, a 32-shard keyspace, ordered multi-key locking, expiration and eviction, and append-only persistence with background rewriting. |
+| [**myLlama**](https://github.com/cmkhoa/myLlama) | Localhost control plane for `llama.cpp`: runner supervision, serialized and streamed chat requests, a companion CLI, profiles, health checks, logs, and metrics. |
+| [**Canvas MCP**](https://github.com/cmkhoa/canvas-mcp) | A single-binary Rust MCP server with 46 read-only tools for Canvas LMS, covering assignments, grades, course content, and grade scenarios. |
+| [**MURL**](https://github.com/cmkhoa/uic-murl-llm-grader-finetune) | Completed research on fine-tuning models to grade worked calculus solutions. The frozen Qwen3-4B model produced **47/47 valid outputs**, **39/47 correct labels**, and first-error exact match on **24/26 eligible examples** in the one-time held-out test. |
 
----
+### Also exploring
+
+- [**Beacon**](https://github.com/cmkhoa/2026-uncommonhacks-beacons) — a team hackathon project for hospital supply coordination, with voice-assisted inventory updates and transfer maps.
+- [**Agent Take-Homes**](https://github.com/cmkhoa/agent-projects) — three practice briefs about tool-calling agents and the boundary between model decisions and application rules.
+- [**ICPC preparation**](https://github.com/cmkhoa/icpc-prep-2026) — algorithms and competitive programming practice.
 
 ### Toolkit
 
-**Languages:** Go, Python, TypeScript/JavaScript, Java, C/C++, SQL, Swift<br>
-**Backend & data:** FastAPI, Node.js, Spring Boot, Redis, PostgreSQL, MongoDB, REST APIs<br>
-**AI & infrastructure:** PyTorch, LoRA/DPO/QLoRA, RAG, Docker, GitHub Actions, Airflow, AWS, GCP
+**Languages:** Go, Rust, Python, TypeScript/JavaScript, Java, C/C++, SQL, Swift<br>
+**Backend & data:** FastAPI, Node.js, Spring Boot, Redis, PostgreSQL, MongoDB<br>
+**AI & infrastructure:** PyTorch, LoRA/QLoRA, RAG, MCP, Docker, GitHub Actions, Airflow, AWS, GCP
 
----
+Outside of code: photography, Formula 1, and cheering for McLaren and Oscar Piastri. 🏁
 
 ### Let's connect
 
-<div align="center">
+[Portfolio](https://cmkhoa.me) · [LinkedIn](https://linkedin.com/in/cmkhoa) · [Email](mailto:cmkhoa2006@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cmkhoa)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=About.me&logoColor=white)](https://cmkhoa.me)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cmkhoa2006@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <i>Open to software engineering, systems, and AI infrastructure opportunities. Building cmkhoa.me as a home for both my engineering work and the things I create outside of code.</i>
-</div>
+Open to software engineering, systems, and AI infrastructure opportunities.

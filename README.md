@@ -18,7 +18,6 @@ My work spans Go, Rust, and Python, alongside software engineering internships a
 ### Also exploring
 
 - [**Beacon**](https://github.com/cmkhoa/2026-uncommonhacks-beacons) — a team hackathon project for hospital supply coordination, with voice-assisted inventory updates and transfer maps.
-- [**Agent Take-Homes**](https://github.com/cmkhoa/agent-projects) — three practice briefs about tool-calling agents and the boundary between model decisions and application rules.
 - [**ICPC preparation**](https://github.com/cmkhoa/icpc-prep-2026) — algorithms and competitive programming practice.
 
 ### Toolkit
